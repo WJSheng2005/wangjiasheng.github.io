@@ -11,48 +11,32 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-教育经历
-======
-## 教育背景
+## 教育经历
 
-<table>
-  <tr>
-    <td>
-      <img src="/images/bnu.png" width="28" style="vertical-align: middle; margin-right: 8px;">
-      <strong>北京师范大学</strong>
-    </td>
-    <td>本科</td>
-    <td>2023.09 - 2027.06</td>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li>专业：地理信息科学</li>
-        <li>GPA：3.77/4.0（89.81/100），Rank 5/29</li>
-      </ul>
-    </td>
-    <td></td>
-    <td></td>
-  </tr>
+### 教育背景
 
-  <tr>
-    <td>
-      <img src="/images/pkuhs.png" width="28" style="vertical-align: middle; margin-right: 8px;">
-      <strong>北京大学附属中学</strong>
-    </td>
-    <td>初三及高中</td>
-    <td>2019.09 - 2023.06</td>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li>高考选科：物理、化学、地理</li>
-      </ul>
-    </td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <img src="/images/bnu.png" width="22" style="vertical-align: middle; margin-right: 6px;">
+    <strong>北京师范大学</strong> 本科
+  </div>
+  <div>2023.09 - 至今</div>
+</div>
+
+- 专业：地理信息科学  
+- GPA：3.77/4.0（89.81/100），Rank 5/29  
+
+<br>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <img src="/images/pkuhs.png" width="22" style="vertical-align: middle; margin-right: 6px;">
+    <strong>北京大学附属中学</strong> 初三及高中
+  </div>
+  <div>2019.09 - 2023.06</div>
+</div>
+
+- 高考选科：物理、化学、地理
 
 Getting started
 ======
