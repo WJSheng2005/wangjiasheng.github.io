@@ -13,6 +13,8 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 教育经历
 ======
+## 教育背景
+
 <div style="display: flex; justify-content: space-between;">
   <span><strong>北京师范大学</strong></span>
   <span>本科</span>
@@ -21,7 +23,17 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 <ul>
   <li>专业：地理信息科学</li>
-  <li>GPA：3.77/4.0（89.81/100） Rank（5/29）</li>
+  <li>GPA：3.77/4.0（89.81/100），Rank 5/29</li>
+</ul>
+
+<div style="display: flex; justify-content: space-between; margin-top: 12px;">
+  <span><strong>北京大学附属中学</strong></span>
+  <span>初三及高中</span>
+  <span>2019.09 - 2023.06</span>
+</div>
+
+<ul>
+  <li>高考选科：物理、化学、地理</li>
 </ul>
 
 Getting started
