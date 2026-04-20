@@ -22,7 +22,7 @@ This is the front page of a website that is powered by the [Academic Pages templ
       <strong>北京师范大学</strong>
     </td>
     <td>本科</td>
-    <td>2023.09 - 至今</td>
+    <td>2023.09 - 2027.06</td>
   </tr>
   <tr>
     <td>
