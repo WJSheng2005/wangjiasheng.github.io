@@ -15,26 +15,44 @@ This is the front page of a website that is powered by the [Academic Pages templ
 ======
 ## 教育背景
 
-<div style="display: flex; justify-content: space-between;">
-  <span><strong>北京师范大学</strong></span>
-  <span>本科</span>
-  <span>2023.09 - 至今</span>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="/images/bnu.png" width="28" style="vertical-align: middle; margin-right: 8px;">
+      <strong>北京师范大学</strong>
+    </td>
+    <td>本科</td>
+    <td>2023.09 - 至今</td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>专业：地理信息科学</li>
+        <li>GPA：3.77/4.0（89.81/100），Rank 5/29</li>
+      </ul>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 
-<ul>
-  <li>专业：地理信息科学</li>
-  <li>GPA：3.77/4.0（89.81/100），Rank 5/29</li>
-</ul>
-
-<div style="display: flex; justify-content: space-between; margin-top: 12px;">
-  <span><strong>北京大学附属中学</strong></span>
-  <span>初三及高中</span>
-  <span>2019.09 - 2023.06</span>
-</div>
-
-<ul>
-  <li>高考选科：物理、化学、地理</li>
-</ul>
+  <tr>
+    <td>
+      <img src="/images/pkuhs.png" width="28" style="vertical-align: middle; margin-right: 8px;">
+      <strong>北京大学附属中学</strong>
+    </td>
+    <td>初三及高中</td>
+    <td>2019.09 - 2023.06</td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>高考选科：物理、化学、地理</li>
+      </ul>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 Getting started
 ======
