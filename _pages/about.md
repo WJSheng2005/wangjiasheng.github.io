@@ -1,15 +1,20 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+### English Proficiency
+- IELTS: 7.0 (Listening 8.5)  
+- CET-6: 529  
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+### Mathematical Foundations
+- Calculus I (97), Calculus II (89)  
+- University Physics I (90), II (98)  
+- General Chemistry (93)  
+- Probability and Mathematical Foundations (91)
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+### Core Courses
+- Deep Learning and Geographical Applications (94)  
+- Microwave Remote Sensing (94)  
+- GIS Spatial Analysis (92)  
+- Remote Sensing Digital Image Processing (92)  
+- Geostatistical Analysis (90)  
+- Surface Water and Heat Balance (91)
 
 ## 教育经历
 
