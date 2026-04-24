@@ -139,18 +139,17 @@
 /*
    Author profile and links
    ========================================================================== */
-
 .author__avatar {
   display: table-cell;
   vertical-align: top;
   width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
+  margin-bottom: 30px;
 
   @include breakpoint($large) {
     display: block;
     width: auto;
     height: auto;
+    margin-bottom: 40px;
   }
 
   img {
