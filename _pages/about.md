@@ -1,29 +1,37 @@
 ---
 permalink: /
-title: "About"
+title: "关于我"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-### English Proficiency
-- IELTS: 7.0 (Listening 8.5)  
-- CET-6: 529  
+## 成绩与课程
 
-### Mathematical Foundations
-- Calculus I (97), Calculus II (89)  
-- University Physics I (90), II (98)  
-- General Chemistry (93)  
-- Probability and Mathematical Foundations (91)
+### 学业成绩
+- GPA：3.77/4.0（89.81/100）
+- 专业排名：5/29
 
-### Core Courses
-- Deep Learning and Geographical Applications (94)  
-- Microwave Remote Sensing (94)  
-- GIS Spatial Analysis (92)  
-- Remote Sensing Digital Image Processing (92)  
-- Geostatistical Analysis (90)  
-- Surface Water and Heat Balance (91)
+### 数理基础
+- 高等数学 A（97）
+- 高等数学 B（89）
+- 大学物理 A（90）
+- 大学物理 B（98）
+- 普通化学（93）
+- 概率论与数学基础（91）
+
+### 核心课程
+- 深度学习与地理应用（94）
+- 微波遥感（94）
+- GIS 空间分析（92）
+- 遥感数字图像处理（92）
+- 地统计分析（90）
+- 地表水热平衡（91）
+
+## 英语能力
+- 雅思：7.0（听力 8.5）
+- CET-6：529
 
 ## 教育经历
 
