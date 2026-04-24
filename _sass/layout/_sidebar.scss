@@ -143,23 +143,16 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
-  margin-bottom: 30px;
 
   @include breakpoint($large) {
     display: block;
     width: auto;
     height: auto;
-    margin-bottom: 40px;
   }
 
   img {
     max-width: 175px;
     border-radius: 50%;
-
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid var(--global-border-color);
-    }
   }
 }
 
