@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "About"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
 ### English Proficiency
 - IELTS: 7.0 (Listening 8.5)  
 - CET-6: 529  
