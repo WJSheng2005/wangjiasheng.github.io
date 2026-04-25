@@ -69,6 +69,21 @@ redirect_from:
   font-weight: 700;
   color: #111827;
 }
+  @media (min-width: 80em) {
+  #main {
+    max-width: 1440px;
+  }
+
+  .masthead__inner-wrap {
+    max-width: 1440px;
+  }
+
+  .page {
+    padding-right: 5% !important;
+    padding-left: 3% !important;
+  }
+}
+
 </style>
 
 ## 基本信息
