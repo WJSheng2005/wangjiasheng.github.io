@@ -116,17 +116,24 @@ redirect_from:
 
 # 教育经历
 
-<div class="edu-item">
-  <div class="edu-name">北京师范大学｜本科｜地理信息科学</div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 0.6rem; flex-wrap: wrap; gap: 1rem;">
+  <div>
+    <img src="/images/bnu.png" width="22" style="vertical-align: middle; margin-right: 6px;">
+    <strong>北京师范大学</strong>｜本科｜地理信息科学
+  </div>
   <div>2023.09 - 至今</div>
 </div>
 
-<div class="edu-item">
-  <div class="edu-name">北京大学附属中学｜初三及高中</div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 0.8rem; flex-wrap: wrap; gap: 1rem;">
+  <div>
+    <img src="/images/pkuhs.png" width="22" style="vertical-align: middle; margin-right: 6px;">
+    <strong>北京大学附属中学</strong>｜初三及高中
+  </div>
   <div>2019.09 - 2023.06</div>
 </div>
 
 <div class="metric-line">选科：物理、化学、地理</div>
+
 
 # 科研训练
 
