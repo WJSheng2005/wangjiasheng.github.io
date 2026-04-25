@@ -26,25 +26,32 @@ redirect_from:
   line-height: 1.9;
 }
 
-.page__content h1,
-.page__content h2 {
-  font-family: "Times New Roman", "Songti SC", "STSong", "SimSun", serif;
-  font-weight: 700;
-  letter-spacing: 0.02em;
-  color: #111827;
-}
-
 .page__content h1 {
-  margin-top: 2.2rem;
-  margin-bottom: 0.9rem;
-  font-size: 2rem;
+  font-family: "Microsoft YaHei", "PingFang SC", "Hiragino Sans GB", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  color: #111827;
+  font-size: 1.45rem;
+  line-height: 1.45;
+  margin-top: 1.4rem;
+  margin-bottom: 0.7rem;
+}
+
+.page__content h1:first-of-type {
+  margin-top: 0;
 }
 
 .page__content h2 {
-  margin-top: 1.4rem;
-  margin-bottom: 0.6rem;
-  font-size: 1.25rem;
+  font-family: "Microsoft YaHei", "PingFang SC", "Hiragino Sans GB", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  color: #111827;
+  font-size: 1.08rem;
+  line-height: 1.5;
+  margin-top: 1rem;
+  margin-bottom: 0.45rem;
 }
+
 
 .metric-line {
   margin: 0.3rem 0;
