@@ -7,6 +7,31 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.page__content {
+  font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
+  line-height: 1.9;
+  color: #1f2937;
+}
+
+.page__content h2,
+.page__content h3 {
+  font-family: "Songti SC", "STSong", "Noto Serif CJK SC", serif;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  margin-top: 1.8em;
+  color: #111827;
+}
+
+.page__content ul {
+  margin-bottom: 1rem;
+}
+
+.page__content li {
+  margin-bottom: 0.35rem;
+}
+</style>
+
 ## 成绩与课程
 
 ### 学业成绩
